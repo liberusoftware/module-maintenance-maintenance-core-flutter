@@ -1,0 +1,15 @@
+{
+  "repository": "module-maintenance-maintenance-core-flutter",
+  "capabilityKey": "liberusoftware/module-maintenance-maintenance-core",
+  "presentation": "mobile-flutter",
+  "package": "module_maintenance_maintenance_core_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/maintenance/nextjs/maintenance-core.md",
+  "presentationPlan": "projects/maintenance/flutter/maintenance-core.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "maintenance"
+  ]
+}
